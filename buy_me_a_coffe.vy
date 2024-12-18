@@ -99,3 +99,9 @@ def __default__():
 # @view 
 # def divide_me(number: uint256) -> uint256:
 #     return number // 3
+
+
+
+# buy me coffe building.
+
+
